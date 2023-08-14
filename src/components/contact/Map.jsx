@@ -5,7 +5,7 @@ const Map = () => {
   return (
     <div className="map-content">
       <iframe
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2430.067521999481!2d-1.900139523069503!3d52.47791313934429!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870bc896c750ee5%3A0x9da3f5ae36c39f33!2sNew%20Street%20Station%2C%20East%20Mews%2C%20Birmingham%20B2%204PY%2C%20Reino%20Unido!5e0!3m2!1ses!2sco!4v1690580456062!5m2!1ses!2sco"
+        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15916.806623379667!2d-38.0824234!3d-4.1807237!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b88f1a87f3460f%3A0x2a28c8d550d6126c!2sVilla%20Eva%20House%20Beberibe!5e0!3m2!1spt-BR!2suk!4v1692044614881!5m2!1spt-BR!2suk" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
         width="100%"
         height="500"
         title="Location"

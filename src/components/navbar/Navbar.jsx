@@ -21,7 +21,7 @@ const Navbar = () => {
         <div className="navbar-content flex fw-7">
           <div className="brand-and-toggler flex flex-between w-100">
             <Link to="/" className="navbar-brand fs-26 text-white">
-              SolnHub.
+              VillaEva
             </Link>
             <div
               type="button"

@@ -9,7 +9,7 @@ const Header = () => {
       <Navbar />
       <div className="container">
         <div className="header-content text-center flex flex-column">
-          <h1 className="text-upper header-title fw-9">marketing solution agency</h1>
+          <h1 className="text-upper header-title fw-9">Villa Eva</h1>
           <p className="text-lead">
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque
             odio ratione ipsum consequatur recusandae, obcaecati minus?

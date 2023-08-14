@@ -9,11 +9,11 @@ const Footer = () => {
       <div className="container flex flex-center w-100">
         <div className="footer-content grid text-center">
           <p className="text">
-            Design inspired by GeekProbin. All rights reserved.
+            Villa Eva House Beberibe. Todos os direitos reservados.
             <br />
             <span className="text">
               &copy; {date.getFullYear()}
-              {" JCYepesGarcia."}
+              {" PREENCHER. "}
             </span>
           </p>
         </div>
