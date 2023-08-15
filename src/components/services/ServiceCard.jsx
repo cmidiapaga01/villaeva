@@ -17,4 +17,4 @@ const ServiceCard = ({ service }) => {
 };
 
 export default ServiceCard;
-//49:10
+

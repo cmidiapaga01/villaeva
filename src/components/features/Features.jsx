@@ -20,4 +20,3 @@ const Features = () => {
 };
 
 export default Features;
-// 1:01:59
